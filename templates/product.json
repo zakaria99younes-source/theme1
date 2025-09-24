@@ -1,0 +1,538 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "liquid_9tPDfi": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\" onclick=\"scrollToSection()\">\n    <link href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css\" rel=\"stylesheet\">\n\n    <div style=\"display: flex; align-items: center; color: green; cursor: pointer;\">\n        <div class=\"stars\" style=\"margin-right: 8px;\">\n            <i class=\"fas fa-star\"></i>\n            <i class=\"fas fa-star\"></i>\n            <i class=\"fas fa-star\"></i>\n            <i class=\"fas fa-star\"></i>\n            <i class=\"fas fa-star-half-stroke\"></i>\n        </div>\n        <div class=\"text\" style=\"font-weight: bold;\">Noté 4,7/5 (+2300 commentaires)</div>\n    </div>\n</div>\n\n<script>\n    function scrollToSection() {\n        const section = document.getElementById('shopify-section-template--17667833233452__testimonials_UJCkNj');\n        if (section) {\n            section.scrollIntoView({ behavior: 'smooth' });\n        }\n    }\n</script>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_HfVy8n": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<span class=\"stock-status\" style=\"font-size: 16px; margin-top: px;\">\n  <span class=\"outer-circle\">\n    <span class=\"inner-circle\"></span>\n  </span>\n  Presque épuisé !\n</span>"
+          }
+        },
+        "liquid_HdzimW": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div style=\"border: 2px solid #ddd; border-radius: 10px; padding: 15px; max-width: 300px; background: #f4f7fa; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;\">\n    <div style=\"display: flex; align-items: center; margin-bottom: 10px;\">\n        <img src=\"https://static.vecteezy.com/system/resources/previews/011/629/361/non_2x/international-shipping-3d-rendering-illustration-png.png\" alt=\"Shipping Icon\" style=\"width: 20px; height: 20px; margin-right: 10px; filter: hue-rotate(45deg);\">\n        <p style=\"margin: 0; font-size: 14px; font-weight: bold; color: black;\"><u>Livraison gratuite via LaPoste</u></p>\n    </div>\n    <div style=\"display: flex; align-items: center; margin-bottom: 10px;\">\n        <img src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREvcHN0Qq7AVQMbkxiq5tFtEGcWhQ8AACteg&s\" alt=\"Return Guarantee Icon\" style=\"width: 20px; height: 20px; margin-right: 10px; filter: hue-rotate(90deg);\">\n        <p style=\"margin: 0; font-size: 14px; font-weight: bold; color: black;\"><u>Garantie de retour sous 14j</u></p>\n    </div>\n    <div style=\"display: flex; align-items: center;\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0668/5356/8556/files/Flag_of_France.svg?v=1740577030\" alt=\"French Flag\" style=\"width: 20px; height: 15px; margin-right: 10px;\">\n        <p style=\"margin: 0; font-size: 14px; font-weight: bold; color: black;\"><u>Conception 100% française depuis 2009</u></p>\n    </div>\n</div>"
+          }
+        },
+        "liquid_aAiG8g": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; padding: 20px; max-width: 400px;\">\n  <!-- Row 1: Money Back Guarantee and Easy Return -->\n  <div style=\"display: flex; align-items: center; font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 10px 20px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); width: 47%;\">\n    <img alt=\"Money Back Guarantee\" style=\"width: 35px; height: 35px; margin-right: 10px;\" src=\"https://static.vecteezy.com/system/resources/previews/011/629/361/non_2x/international-shipping-3d-rendering-illustration-png.png\">\n    <span style=\"font-size: 14px; font-weight: bold; color: #333;\">Livraison Gratuite</span>\n  </div>\n\n  <div style=\"display: flex; align-items: center; font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 10px 20px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); width: 45%;\">\n    <img alt=\"Easy Return\" style=\"width: 35px; height: 35px; margin-right: 10px;\" src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREvcHN0Qq7AVQMbkxiq5tFtEGcWhQ8AACteg&amp;s\">\n    <span style=\"font-size: 14px; font-weight: bold; color: #333;\">Garantie de retour sous 30 jours</span>\n  </div>\n\n  <!-- Row 2: Secure Checkout and 1 Year Warranty -->\n  <div style=\"display: flex; align-items: center; font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 10px 20px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); width: 45%;\">\n    <img alt=\"Secure Checkout\" style=\"width: 35px; height: 35px; margin-right: 10px;\" src=\"https://cdn-icons-png.freepik.com/512/8946/8946418.png\">\n    <span style=\"font-size: 14px; font-weight: bold; color: #333;\">Paiement sécurisé via SSL<span>\n  </div>\n\n  <div style=\"display: flex; align-items: center; font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 10px 20px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); width: 45%;\">\n    <img alt=\"1 Year Warranty\" style=\"width: 50px; height: 35px; margin-right: 10px;\" src=\"https://www.svgrepo.com/show/405485/flag-for-flag-france.svg\">\n    <span style=\"font-size: 14px; font-weight: bold; color: #333;\">Made IN FRANCE</span>\n  </div>\n</div>\n          </div>"
+          }
+        },
+        "liquid_8fDnrH": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n    <style>\n        .custom-shipping-container {\n            display: flex;\n            padding: 12px 24px;\n            justify-content: center;\n            align-items: center;\n            background-color: #f6f6f6;\n            border-radius: 20px;\n            text-align: center;\n            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);\n        }\n\n        .custom-shipping-item {\n            display: flex;\n            align-items: center;\n            gap: 12px;\n        }\n\n        .text-block-shipping {\n            font-size: 20px; /* Bigger */\n            font-weight: 600; /* Semi-bold */\n            color: #222;\n        }\n\n        .freea-shipping {\n            font-size: 22px; /* Slightly bigger */\n            font-weight: 700; /* Bold */\n            color: #008000; /* Green for trust & visibility */\n        }\n\n        .green-circle {\n            animation: fade 1s ease-in-out infinite;\n            width: 14px;\n            height: 14px;\n        }\n\n        @keyframes fade {\n            0%, 100% { opacity: 1; }\n            50% { opacity: 0.5; }\n        }\n    </style>\n\n    <div class=\"custom-shipping-container\">\n        <div class=\"custom-shipping-item\">\n            <svg class=\"green-circle\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" viewBox=\"0 0 12 13\" fill=\"none\">\n                <circle cx=\"6\" cy=\"6.5\" r=\"6\" fill=\"#008000\"></circle>\n            </svg>\n            <div class=\"freea-shipping\"\n                🎉 Profitez de <span class=\"freea-shipping\">-15 %</span> avec le code <span class=\"freea-shipping\">AGO15 </span>\n            </div>\n        </div>\n    </div>\n</div>\n<br>"
+          }
+        },
+        "liquid_CmRcXq": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n            <style>\n.custom-shipping-container {\n  display: flex;\n  padding: 6px 16px;\n  justify-content: space-between;\n  align-items: center;\n  align-self: stretch;\n  background-color: #f6f6f6;\n  border-radius: 20px;\n}\n\n.custom-shipping-item {\n  display: flex;\n  align-items: center;\n  gap: 6px;\n}\n\n.text-block-shipping {\n  font-size: 12px;\n  color: #000;\n}\n\n.shipping-date {\n  font-weight: bold;\n}\n\n.free-shipping {\n  font-weight: bold;\n}\n\n.green-circle {\n  animation: fade 1s ease-in-out infinite;\n}\n\n@keyframes fade {\n  0%, 100% { opacity: 1; }\n  50% { opacity: 0.5; }\n}\n</style>\n\n<script>\ndocument.addEventListener(\"DOMContentLoaded\", function() {\n  var daysAfterToday = 1; // Set this to the number of days after today that the item will ship to the customer\n  var today = new Date();\n  var shipDate = new Date(today.setDate(today.getDate() + daysAfterToday));\n  var options = { weekday: 'short', month: 'long', day: 'numeric' };\n  var formattedDate = shipDate.toLocaleDateString('fr-FR', options);\n  document.getElementById('shipping-date').textContent = formattedDate;\n});\n</script>\n\n<div class=\"custom-shipping-container\">\n  <div class=\"custom-shipping-item\">\n    <svg class=\"green-circle\" xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"13\" viewBox=\"0 0 12 13\" fill=\"none\">\n      <circle cx=\"6\" cy=\"6.5\" r=\"6\" fill=\"#FF0000\"></circle>\n    </svg>\n    <div class=\"text-block-shipping\">Profitez de 20 % de réduction avec le code <span class=\"free-shipping\">MARS20 </span></div>\n  </div>\n</div>\n          </div>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "variant",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#be8278",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_fYbmhL": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<br><div style=\"display: flex; justify-content: center; align-items: center; gap: 10px;\">\n<div class=\"footer__payment-icons h-stack wrap gap-2\"><svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-labelledby=\"pi-american_express\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\"><title id=\"pi-american_express\">American Express</title><path fill=\"#000\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3Z\" opacity=\".07\"></path><path fill=\"#006FCF\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32Z\"></path><path fill=\"#FFF\" d=\"M22.012 19.936v-8.421L37 11.528v2.326l-1.732 1.852L37 17.573v2.375h-2.766l-1.47-1.622-1.46 1.628-9.292-.02Z\"></path><path fill=\"#006FCF\" d=\"M23.013 19.012v-6.57h5.572v1.513h-3.768v1.028h3.678v1.488h-3.678v1.01h3.768v1.531h-5.572Z\"></path><path fill=\"#006FCF\" d=\"m28.557 19.012 3.083-3.289-3.083-3.282h2.386l1.884 2.083 1.89-2.082H37v.051l-3.017 3.23L37 18.92v.093h-2.307l-1.917-2.103-1.898 2.104h-2.321Z\"></path><path fill=\"#FFF\" d=\"M22.71 4.04h3.614l1.269 2.881V4.04h4.46l.77 2.159.771-2.159H37v8.421H19l3.71-8.421Z\"></path><path fill=\"#006FCF\" d=\"m23.395 4.955-2.916 6.566h2l.55-1.315h2.98l.55 1.315h2.05l-2.904-6.566h-2.31Zm.25 3.777.875-2.09.873 2.09h-1.748Z\"></path><path fill=\"#006FCF\" d=\"M28.581 11.52V4.953l2.811.01L32.84 9l1.456-4.046H37v6.565l-1.74.016v-4.51l-1.644 4.494h-1.59L30.35 7.01v4.51h-1.768Z\"></path></svg>\n<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" x=\"0\" y=\"0\" width=\"38\" height=\"24\" viewBox=\"0 0 165.521 105.965\" xml:space=\"preserve\" aria-labelledby=\"pi-apple_pay\"><title id=\"pi-apple_pay\">Apple Pay</title><path fill=\"#000\" d=\"M150.698 0H14.823c-.566 0-1.133 0-1.698.003-.477.004-.953.009-1.43.022-1.039.028-2.087.09-3.113.274a10.51 10.51 0 0 0-2.958.975 9.932 9.932 0 0 0-4.35 4.35 10.463 10.463 0 0 0-.975 2.96C.113 9.611.052 10.658.024 11.696a70.22 70.22 0 0 0-.022 1.43C0 13.69 0 14.256 0 14.823v76.318c0 .567 0 1.132.002 1.699.003.476.009.953.022 1.43.028 1.036.09 2.084.275 3.11a10.46 10.46 0 0 0 .974 2.96 9.897 9.897 0 0 0 1.83 2.52 9.874 9.874 0 0 0 2.52 1.83c.947.483 1.917.79 2.96.977 1.025.183 2.073.245 3.112.273.477.011.953.017 1.43.02.565.004 1.132.004 1.698.004h135.875c.565 0 1.132 0 1.697-.004.476-.002.952-.009 1.431-.02 1.037-.028 2.085-.09 3.113-.273a10.478 10.478 0 0 0 2.958-.977 9.955 9.955 0 0 0 4.35-4.35c.483-.947.789-1.917.974-2.96.186-1.026.246-2.074.274-3.11.013-.477.02-.954.022-1.43.004-.567.004-1.132.004-1.699V14.824c0-.567 0-1.133-.004-1.699a63.067 63.067 0 0 0-.022-1.429c-.028-1.038-.088-2.085-.274-3.112a10.4 10.4 0 0 0-.974-2.96 9.94 9.94 0 0 0-4.35-4.35A10.52 10.52 0 0 0 156.939.3c-1.028-.185-2.076-.246-3.113-.274a71.417 71.417 0 0 0-1.431-.022C151.83 0 151.263 0 150.698 0z\"></path><path fill=\"#FFF\" d=\"M150.698 3.532l1.672.003c.452.003.905.008 1.36.02.793.022 1.719.065 2.583.22.75.135 1.38.34 1.984.648a6.392 6.392 0 0 1 2.804 2.807c.306.6.51 1.226.645 1.983.154.854.197 1.783.218 2.58.013.45.019.9.02 1.36.005.557.005 1.113.005 1.671v76.318c0 .558 0 1.114-.004 1.682-.002.45-.008.9-.02 1.35-.022.796-.065 1.725-.221 2.589a6.855 6.855 0 0 1-.645 1.975 6.397 6.397 0 0 1-2.808 2.807c-.6.306-1.228.511-1.971.645-.881.157-1.847.2-2.574.22-.457.01-.912.017-1.379.019-.555.004-1.113.004-1.669.004H14.801c-.55 0-1.1 0-1.66-.004a74.993 74.993 0 0 1-1.35-.018c-.744-.02-1.71-.064-2.584-.22a6.938 6.938 0 0 1-1.986-.65 6.337 6.337 0 0 1-1.622-1.18 6.355 6.355 0 0 1-1.178-1.623 6.935 6.935 0 0 1-.646-1.985c-.156-.863-.2-1.788-.22-2.578a66.088 66.088 0 0 1-.02-1.355l-.003-1.327V14.474l.002-1.325a66.7 66.7 0 0 1 .02-1.357c.022-.792.065-1.717.222-2.587a6.924 6.924 0 0 1 .646-1.981c.304-.598.7-1.144 1.18-1.623a6.386 6.386 0 0 1 1.624-1.18 6.96 6.96 0 0 1 1.98-.646c.865-.155 1.792-.198 2.586-.22.452-.012.905-.017 1.354-.02l1.677-.003h135.875\"></path><g><g><path fill=\"#000\" d=\"M43.508 35.77c1.404-1.755 2.356-4.112 2.105-6.52-2.054.102-4.56 1.355-6.012 3.112-1.303 1.504-2.456 3.959-2.156 6.266 2.306.2 4.61-1.152 6.063-2.858\"></path><path fill=\"#000\" d=\"M45.587 39.079c-3.35-.2-6.196 1.9-7.795 1.9-1.6 0-4.049-1.8-6.698-1.751-3.447.05-6.645 2-8.395 5.1-3.598 6.2-.95 15.4 2.55 20.45 1.699 2.5 3.747 5.25 6.445 5.151 2.55-.1 3.549-1.65 6.647-1.65 3.097 0 3.997 1.65 6.696 1.6 2.798-.05 4.548-2.5 6.247-5 1.95-2.85 2.747-5.6 2.797-5.75-.05-.05-5.396-2.101-5.446-8.251-.05-5.15 4.198-7.6 4.398-7.751-2.399-3.548-6.147-3.948-7.447-4.048\"></path></g><g><path fill=\"#000\" d=\"M78.973 32.11c7.278 0 12.347 5.017 12.347 12.321 0 7.33-5.173 12.373-12.529 12.373h-8.058V69.62h-5.822V32.11h14.062zm-8.24 19.807h6.68c5.07 0 7.954-2.729 7.954-7.46 0-4.73-2.885-7.434-7.928-7.434h-6.706v14.894z\"></path><path fill=\"#000\" d=\"M92.764 61.847c0-4.809 3.665-7.564 10.423-7.98l7.252-.442v-2.08c0-3.04-2.001-4.704-5.562-4.704-2.938 0-5.07 1.507-5.51 3.82h-5.252c.157-4.86 4.731-8.395 10.918-8.395 6.654 0 10.995 3.483 10.995 8.89v18.663h-5.38v-4.497h-.13c-1.534 2.937-4.914 4.782-8.579 4.782-5.406 0-9.175-3.222-9.175-8.057zm17.675-2.417v-2.106l-6.472.416c-3.64.234-5.536 1.585-5.536 3.95 0 2.288 1.975 3.77 5.068 3.77 3.95 0 6.94-2.522 6.94-6.03z\"></path><path fill=\"#000\" d=\"M120.975 79.652v-4.496c.364.051 1.247.103 1.715.103 2.573 0 4.029-1.09 4.913-3.899l.52-1.663-9.852-27.293h6.082l6.863 22.146h.13l6.862-22.146h5.927l-10.216 28.67c-2.34 6.577-5.017 8.735-10.683 8.735-.442 0-1.872-.052-2.261-.157z\"></path></g></g></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\" aria-labelledby=\"pi-google_pay\"><title id=\"pi-google_pay\">Google Pay</title><path d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\" fill=\"#000\" opacity=\".07\"></path><path d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\" fill=\"#FFF\"></path><path d=\"M18.093 11.976v3.2h-1.018v-7.9h2.691a2.447 2.447 0 0 1 1.747.692 2.28 2.28 0 0 1 .11 3.224l-.11.116c-.47.447-1.098.69-1.747.674l-1.673-.006zm0-3.732v2.788h1.698c.377.012.741-.135 1.005-.404a1.391 1.391 0 0 0-1.005-2.354l-1.698-.03zm6.484 1.348c.65-.03 1.286.188 1.778.613.445.43.682 1.03.65 1.649v3.334h-.969v-.766h-.049a1.93 1.93 0 0 1-1.673.931 2.17 2.17 0 0 1-1.496-.533 1.667 1.667 0 0 1-.613-1.324 1.606 1.606 0 0 1 .613-1.336 2.746 2.746 0 0 1 1.698-.515c.517-.02 1.03.093 1.49.331v-.208a1.134 1.134 0 0 0-.417-.901 1.416 1.416 0 0 0-.98-.368 1.545 1.545 0 0 0-1.319.717l-.895-.564a2.488 2.488 0 0 1 2.182-1.06zM23.29 13.52a.79.79 0 0 0 .337.662c.223.176.5.269.785.263.429-.001.84-.17 1.146-.472.305-.286.478-.685.478-1.103a2.047 2.047 0 0 0-1.324-.374 1.716 1.716 0 0 0-1.03.294.883.883 0 0 0-.392.73zm9.286-3.75l-3.39 7.79h-1.048l1.281-2.728-2.224-5.062h1.103l1.612 3.885 1.569-3.885h1.097z\" fill=\"#5F6368\"></path><path d=\"M13.986 11.284c0-.308-.024-.616-.073-.92h-4.29v1.747h2.451a2.096 2.096 0 0 1-.9 1.373v1.134h1.464a4.433 4.433 0 0 0 1.348-3.334z\" fill=\"#4285F4\"></path><path d=\"M9.629 15.721a4.352 4.352 0 0 0 3.01-1.097l-1.466-1.14a2.752 2.752 0 0 1-4.094-1.44H5.577v1.17a4.53 4.53 0 0 0 4.052 2.507z\" fill=\"#34A853\"></path><path d=\"M7.079 12.05a2.709 2.709 0 0 1 0-1.735v-1.17H5.577a4.505 4.505 0 0 0 0 4.075l1.502-1.17z\" fill=\"#FBBC04\"></path><path d=\"M9.629 8.44a2.452 2.452 0 0 1 1.74.68l1.3-1.293a4.37 4.37 0 0 0-3.065-1.183 4.53 4.53 0 0 0-4.027 2.5l1.502 1.171a2.715 2.715 0 0 1 2.55-1.875z\" fill=\"#EA4335\"></path></svg>\n<svg viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"38\" height=\"24\" role=\"img\" aria-labelledby=\"pi-maestro\"><title id=\"pi-maestro\">Maestro</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><circle fill=\"#EB001B\" cx=\"15\" cy=\"12\" r=\"7\"></circle><circle fill=\"#00A2E5\" cx=\"23\" cy=\"12\" r=\"7\"></circle><path fill=\"#7375CF\" d=\"M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z\"></path></svg><svg viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-master\"><title id=\"pi-master\">Mastercard</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><circle fill=\"#EB001B\" cx=\"15\" cy=\"12\" r=\"7\"></circle><circle fill=\"#F79E1B\" cx=\"23\" cy=\"12\" r=\"7\"></circle><path fill=\"#FF5F00\" d=\"M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z\"></path></svg><svg viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-visa\"><title id=\"pi-visa\">Visa</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><path d=\"M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z\" fill=\"#142688\"></path></svg></div></div>\n</div>\n\n<div class=\"product-info__liquid\">\n            <div class=\"product-info__liquid\">\n            <div class=\"product-block\">\n                      \n  <style>\n    @font-face {\n      font-family: 'Twentieth Century';\n      src: url('/path-to-your-font/twentieth-century.ttf') format('truetype');\n    }\n\n    .notification {\n      background-color: #ffecec;\n      border-left: 5px solid #ff6b6b;\n      padding: 10px 15px;\n      font-size: 15px;\n      font-family: 'Twentieth Century', sans-serif;\n      color: #333;\n      margin-top: 20px;\n      border-radius: 5px;\n    }\n\n    .notification b {\n      font-weight: bold;\n    }\n  </style>\n\n\n\n  <div class=\"notification\">\n    <b>MISE À JOUR:</b> En raison de la forte demande, nos stocks s'épuisent rapidement. Si vous pouvez toujours cliquer sur « ajouter au panier », cela signifie que le produit est toujours disponible, mais n'attendez pas trop ! – Cordialement, Caye Milan.\n  </div></div>\n          </div>\n          </div>\n\n<hr style=\"border: none; border-top: 1px solid black; margin: 20px 0;\">\n<div class=\"product-info__liquid\">\n<b class=\"status-title\"> ‎ ‎ 🚚 ESTIMATION DE LA DATE DE LIVRAISON :</b>\n  <style>\n    .custom-shipping-container {\n      display: flex;\n      padding: 12px 16px; /* Increased padding for a taller container */\n      justify-content: space-between;\n      align-items: center;\n      align-self: stretch;\n      background-color: #f6f6f6;\n      border-radius: 10px;\n      height: 60px; /* Set fixed height for the container */\n    }\n\n    .custom-shipping-item {\n      display: flex;\n      align-items: center;\n      gap: 6px;\n    }\n\n    .text-block-shipping {\n      font-size: 10px;\n      color: #000;\n    }\n\n    .shipping-date {\n      font-weight: bold;\n    }\n\n    .free-shipping {\n      font-weight: bold;\n    }\n\n    .green-circle {\n      animation: fade 1s ease-in-out infinite;\n    }\n\n    @keyframes fade {\n      0%, 100% { opacity: 1; }\n      50% { opacity: 0.5; }\n    }\n\n    /* Styling for the order status */\n    .order-status {\n      display: flex;\n      justify-content: space-between;\n      align-items: center;\n      font-family: 'Arial', sans-serif;\n      background-color: #f4f4f9;\n      border-radius: 10px;\n      padding: 15px;\n      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n      margin-top: 0;\n    }\n\n    .status-item {\n      display: flex;\n      flex-direction: column;\n      align-items: center;\n      text-align: center;\n      width: 30%;\n      padding: 6px 10px;\n      background-color: #fff;\n      border-radius: 8px;\n      transition: transform 0.3s ease;\n    }\n\n    .status-item:hover {\n      transform: scale(1.1);\n    }\n\n    .status-title {\n      font-size: 16px;\n      font-weight: 600;\n      color: #333;\n    }\n\n    .status-title.small {\n      font-size: 12px; /* Smaller size for \"Ordine\" */\n    }\n\n    .emoji {\n      font-size: 24px;\n      margin-top: 6px;\n    }\n\n    .status-date {\n      font-size: 12px;\n      color: #777;\n      margin-top: 4px;\n      font-weight: 500;\n    }\n\n    .status-date.bold {\n      font-weight: 700; /* Make the date bold */\n    }\n\n    /* Different background colors for each stage */\n    .order-status .status-item:nth-child(1) {\n      background-color: #e0f7fa;\n    }\n\n    .order-status .status-item:nth-child(2) {\n      background-color: #fff3e0;\n    }\n\n    .order-status .status-item:nth-child(3) {\n      background-color: #d1c4e9;\n    }\n\n    /* Reduce the gap between <h2> and .order-status */\n   h2 {\n      margin-bottom: 10px; /* Adjust as needed */\n    }\n\n    .product-info__liquid > h2 + .order-status {\n      margin-top: 0;\n    }\n  </style>\n\n  <div class=\"order-status\">\n    <div class=\"status-item\">\n      <span class=\"status-title\">Commande</span>\n      <span class=\"emoji\">🛒</span>\n      <span class=\"free-shipping\" id=\"order-passed-date\"></span><span>2025</span>\n    </div>\n    <div class=\"status-item\">\n      <span class=\"status-title\">Expédié</span>\n      <span class=\"emoji\">🚚</span>\n      <span class=\"free-shipping\" id=\"shipped-date\">\n</span><span>2025</span>\n    </div>\n    <div class=\"status-item\">\n      <span class=\"status-title\">Livré</span>\n      <span class=\"emoji\">📦</span>\n      <span class=\"free-shipping\" id=\"delivered-date\"></span>/<span class=\"free-shipping\" id=\"delivored-date\"></span><span>2025</span>\n\n    </div>\n  </div>\n\n  <script>\n    function formatDate(date) {\n      const days = ['dim.', 'lun.', 'mar.', 'mer.', 'jeu.', 'ven.', 'sam.'];\n      const months = ['janv.', 'fev.', 'mar.', 'avr.', 'mai.', 'juin.', 'juil.', 'aout.', 'sept.', 'oct.', 'nov.', 'dec.'];\n      \n      const day = days[date.getDay()];\n      const dayOfMonth = date.getDate();\n      const month = months[date.getMonth()];\n\n      return `${dayOfMonth} ${month}`;\n    }\n\n    document.getElementById('order-passed-date').textContent = formatDate(new Date());\n\n    let shippedDate = new Date();\n    shippedDate.setDate(shippedDate.getDate() + 1);\n    document.getElementById('shipped-date').textContent = formatDate(shippedDate);\n\n    let deliveredDate = new Date();\n    deliveredDate.setDate(deliveredDate.getDate() + 5);\n    document.getElementById('delivered-date').textContent = formatDate(deliveredDate);\n\n    let delivoredDate = new Date();\n    delivoredDate.setDate(delivoredDate.getDate() + 7);\n    document.getElementById('delivored-date').textContent = formatDate(delivoredDate);\n  </script>\n</div>"
+          }
+        },
+        "liquid_K6hmp3": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
+        "liquid_LQxgYD": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n            <div class=\"product-info__liquid\">\n            <div class=\"product-block\">\n                      \n  <style>\n    @font-face {\n      font-family: 'Twentieth Century';\n      src: url('/path-to-your-font/twentieth-century.ttf') format('truetype');\n    }\n\n    .notification {\n      background-color: #ffecec;\n      border-left: 5px solid #ff6b6b;\n      padding: 10px 15px;\n      font-size: 15px;\n      font-family: 'Twentieth Century', sans-serif;\n      color: #333;\n      margin-top: 20px;\n      border-radius: 5px;\n    }\n\n    .notification b {\n      font-weight: bold;\n    }\n  </style>\n\n\n\n  <div class=\"notification\">\n  <b>AGGIORNAMENTO:</b> A causa dell'alta richiesta, le nostre scorte si stanno esaurendo rapidamente. Se puoi ancora cliccare su « aggiungi al carrello », significa che il prodotto è ancora disponibile, ma non aspettare troppo! – Cordiali saluti, Caye Milan.\n  </div></div>\n          </div>\n          </div>\n\n<hr style=\"border: none; border-top: 1px solid black; margin: 20px 0;\">"
+          }
+        },
+        "liquid_Qx4dN6": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<br>"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "disabled": true,
+          "settings": {}
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "liquid_grAbkf": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n  <style>\n    .custom-shipping-container {\n      display: flex;\n      padding: 12px 16px; /* Increased padding for a taller container */\n      justify-content: space-between;\n      align-items: center;\n      align-self: stretch;\n      background-color: #f6f6f6;\n      border-radius: 10px;\n      height: 60px; /* Set fixed height for the container */\n    }\n\n    .custom-shipping-item {\n      display: flex;\n      align-items: center;\n      gap: 6px;\n    }\n\n    .text-block-shipping {\n      font-size: 10px;\n      color: #000;\n    }\n\n    .shipping-date {\n      font-weight: bold;\n    }\n\n    .free-shipping {\n      font-weight: bold;\n    }\n\n    .green-circle {\n      animation: fade 1s ease-in-out infinite;\n    }\n\n    @keyframes fade {\n      0%, 100% { opacity: 1; }\n      50% { opacity: 0.5; }\n    }\n  </style>\n\n  <script>\n    document.addEventListener(\"DOMContentLoaded\", function() {\n      var daysAfterToday = 0.5; // Set this to the number of days after today that the item will ship to the customer\n      var today = new Date();\n      var shipDate = new Date(today.setDate(today.getDate() + daysAfterToday));\n      var options = { weekday: 'short', month: 'long', day: 'numeric' };\n      var formattedDate = shipDate.toLocaleDateString('fr-FR', options);\n      document.getElementById('shipping-date').textContent = formattedDate;\n    });\n  </script>\n\n  <div class=\"custom-shipping-container\">\n    <div class=\"custom-shipping-item\">\n      <svg class=\"green-circle\" xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"13\" viewBox=\"0 0 12 13\" fill=\"none\">\n        <circle cx=\"6\" cy=\"6.5\" r=\"6\" fill=\"#137333\"></circle>\n      </svg>\n      <div class=\"text-block-shipping\">Spedito <span id=\"shipping-date\" class=\"shipping-date\">mer. 26 février</span></div>\n    </div>\n    <div class=\"custom-shipping-item\">\n      <!-- Franse vlag afbeelding -->\n      <img src=\"https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg\" loading=\"lazy\" alt=\"French flag\" class=\"custom-icon\" width=\"20\" height=\"15\">\n      <div class=\"text-block-shipping\"><span class=\"free-shipping\">Livraison GRATUITE</span> via LaPoste</div>\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "separator_NyY8hA": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "liquid_69gTBj": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<hr style=\"border: none; border-top: 1px solid black; margin: 20px 0;\">"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "liquid_WNUeX4": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<hr style=\"border: none; border-top: 1px solid black; margin: 20px 0;\">"
+          }
+        },
+        "paywhirl_subscriptions_paywhirl_plan_selector_ayg6d8": {
+          "type": "shopify://apps/paywhirl-subscriptions/blocks/paywhirl-plan-selector/41e95d60-82cf-46e8-84de-618d7e4c37b7",
+          "disabled": true,
+          "settings": {
+            "font_scale": 100,
+            "theme": "default",
+            "show_prices": "default",
+            "show_per_delivery_prices": "default",
+            "selling_plans_first": false,
+            "theme_color": "#334fb4",
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_9tPDfi",
+        "title",
+        "price",
+        "liquid_HfVy8n",
+        "liquid_HdzimW",
+        "liquid_aAiG8g",
+        "liquid_8fDnrH",
+        "liquid_CmRcXq",
+        "variant_picker",
+        "buy_buttons",
+        "liquid_fYbmhL",
+        "liquid_K6hmp3",
+        "liquid_LQxgYD",
+        "liquid_Qx4dN6",
+        "badges",
+        "quantity_selector",
+        "liquid_grAbkf",
+        "rating",
+        "separator",
+        "separator_NyY8hA",
+        "liquid_69gTBj",
+        "description",
+        "liquid_WNUeX4",
+        "paywhirl_subscriptions_paywhirl_plan_selector_ayg6d8"
+      ],
+      "custom_css": [
+        ".div {margin-bottom: 0; padding-bottom: 0;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "1742408186b99a7f2d": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "text_with_icons_DTpD4Y": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_Gk4c7H": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Livraison Gratuite",
+            "content": "<p>Livraison toujours gratuite avec LaPoste (suivi inclus) / <strong>5-7 jours</strong></p>"
+          }
+        },
+        "item_LabVeL": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Service Client",
+            "content": "<p>Toujours disponible avec réponse dans les 24 heures.<strong> 7j.7</strong></p>"
+          }
+        },
+        "item_rK4bqM": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Garantie de retour à 100 %",
+            "content": "<p>Retour facile sous 30 jours</p>"
+          }
+        },
+        "item_PM6jDt": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-credit-card",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Paiement sécurisé",
+            "content": "<p>Paiement rapide et sécurisé par carte bancaire.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_Gk4c7H",
+        "item_LabVeL",
+        "item_rK4bqM",
+        "item_PM6jDt"
+      ],
+      "settings": {
+        "full_width": false,
+        "stack_on_mobile": true,
+        "title": "Ce qui nous distingue ✨",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "small",
+        "background": "#f7eaea",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "testimonials_UJCkNj": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_D3b9Un": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Victoria S.",
+            "title": "Qualité supérieure !",
+            "content": "<p>\"Parfaitement ajusté et semble fantastique. Entièrement satisfait.\"</p>"
+          }
+        },
+        "testimonial_FchGbx": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Très bien!",
+            "content": "<p>\"Les vêtements sont durables et élégants. Exactement ce que je cherchais.\"</p>"
+          }
+        },
+        "testimonial_nByit4": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Mila R.",
+            "title": "Excellente Qualité",
+            "content": "<p>\"Très content de l'achat. Style intemporel et bonne qualité.\"</p>"
+          }
+        },
+        "testimonial_PjKnpt": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Loane D.",
+            "title": "\"Taille Parfaite\"",
+            "content": "<p>\"L'article est exactement comme promis et le tissu est incroyablement confortable.\"</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_D3b9Un",
+        "testimonial_FchGbx",
+        "testimonial_nByit4",
+        "testimonial_PjKnpt"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Avis de nos clients sur Caye Milan*",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "#fff5f5",
+        "background_gradient": "",
+        "text_color": "#000000",
+        "heading_color": "#000000",
+        "heading_gradient": "",
+        "testimonial_card_background": "#472525",
+        "testimonial_card_text_color": "#ffffff"
+      }
+    },
+    "image_with_text_overlay_MeEWqc": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_JFd87N": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Lucelle Paris"
+          }
+        },
+        "heading_ttQA6P": {
+          "type": "heading",
+          "settings": {
+            "text": "Retrouvez notre boutique sur :",
+            "heading_tag": "h4"
+          }
+        },
+        "heading_x8tPyW": {
+          "type": "heading",
+          "settings": {
+            "text": "102 Rue de Provence, 75009 , Paris",
+            "heading_tag": "h5"
+          }
+        },
+        "richtext_9gLCCR": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Lucelle Paris est la destination des femmes à la recherche de mode raffinée et intemporelle. Depuis 2007, notre boutique à Paris est le cœur de l'élégance et du style. Nous proposons des vêtements et accessoires exclusifs qui reflètent le flair parisien. Notre collection est soigneusement sélectionnée pour accueillir les femmes de tous âges avec des créations à la fois modernes et de haute qualité. Ce n'est pas seulement de la mode, c'est un art de vivre. De notre boutique emblématique à nos clientes du monde entier, Dupont Mode Paris reste un symbole de luxe et de classe.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_JFd87N",
+        "heading_ttQA6P",
+        "heading_x8tPyW",
+        "richtext_9gLCCR"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "md",
+        "image": "shopify://shop_images/store-front-caye.png",
+        "mobile_image": "shopify://shop_images/store-front-caye.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "faq_FKfNe8": {
+      "type": "faq",
+      "blocks": {
+        "item_gp3RVU": {
+          "type": "item",
+          "settings": {
+            "title": "Livraison",
+            "content": "<p>Nous expédions toutes nos commandes en France avec Laposte. Des commandes avant 23h ? Votre colis sera expédié gratuitement le lendemain. Vous recevrez ainsi votre commande rapidement et sans frais supplémentaires !</p>"
+          }
+        },
+        "item_TYVjxa": {
+          "type": "item",
+          "settings": {
+            "title": "Retour",
+            "content": "<p>Vous n'êtes pas entièrement satisfait ? Ne pas paniquer! Vous pouvez retourner votre commande facilement et rapidement dans les 30 jours suivant sa réception. Nous veillons à ce que le processus se déroule sans problème afin que vous n'ayez à vous soucier de rien.</p>"
+          }
+        },
+        "item_bnQnfE": {
+          "type": "item",
+          "settings": {
+            "title": "Taille",
+            "content": "<p>Nos vêtements s'ajustent exactement comme indiqué dans le guide des tailles. Pour chaque produit vous trouverez le guide des tailles, afin que vous puissiez toujours choisir la bonne taille et être sûr qu'elle vous ira parfaitement.</p>"
+          }
+        },
+        "item_9My4gD": {
+          "type": "item",
+          "settings": {
+            "title": "Avez-vous d'autres questions?",
+            "content": "<p>Une question ou besoin de conseils ? N'hésitez pas à nous contacter. Nous sommes là pour vous aider et vous conseiller.<br/><br/>Email: <strong>bonjour@cayemilan.com</strong><br/><br/>LUN / VEN 9:00 - 21:00<br/><br/>SAM / DIM 10:00 - 23:00</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_gp3RVU",
+        "item_TYVjxa",
+        "item_bnQnfE",
+        "item_9My4gD"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Questions Fréquentes !",
+        "content": "<p>Des réponses à toutes vos questions !</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Notre boutique est ouverte du lundi au vendredi de 09h00 à 17h00 et le samedi et dimanche de 10h00 à 17h00.",
+        "answer_time": "Réponse sous 24 heures.",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 5,
+        "products": [
+          "blazer-jupe-femme-printemps-elegant",
+          "cardigan-boutonne-fleurs-femme",
+          "cardigan-tricote-vetements-femme",
+          "fleurelia™-cardigan-boheme-a-fleurs-elegance-1",
+          "pull-brode-col-rond-femme",
+          "pull-en-coton-cable-wimbledon-cricket",
+          "pull-femme-fleurs-brode"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Meilleurs ventes:",
+        "content": "",
+        "background": "#d99898",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "#101010",
+        "heading_gradient": "",
+        "product_card_background": "#fff7f7",
+        "product_card_text_color": "#380e0e"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1742408186b99a7f2d",
+    "text_with_icons_DTpD4Y",
+    "testimonials_UJCkNj",
+    "image_with_text_overlay_MeEWqc",
+    "faq_FKfNe8",
+    "related-products"
+  ]
+}
