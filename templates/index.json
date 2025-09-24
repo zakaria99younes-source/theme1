@@ -8,6 +8,380 @@
  * ------------------------------------------------------------
  */
 {
-  "sections": {},
-  "order": []
+  "sections": {
+    "video_F7KCGa": {
+      "type": "video",
+      "blocks": {
+        "play_eVpCxc": {
+          "type": "play",
+          "disabled": true,
+          "settings": {}
+        },
+        "subheading_9q7aDW": {
+          "type": "subheading",
+          "settings": {
+            "text": "Caye Milan"
+          }
+        },
+        "heading_jyn4Tr": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Où l'élégance française et le style intemporel se rencontrent.",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_KqWkWA": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Où l'élégance francaise rencontre le style intemporel.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "play_eVpCxc",
+        "subheading_9q7aDW",
+        "heading_jyn4Tr",
+        "richtext_KqWkWA"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "custom_html_xiWfAy": {
+      "type": "custom-html",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "html": "<section id=\"shopify-section-template--24595606045056__impact-text\" class=\"shopify-section shopify-section--impact-text\"><style>\n  #shopify-section-template--24595606045056__impact-text {\n    --section-background-hash: 0;\n  }\n\n  #shopify-section-template--24595606045056__impact-text + * {\n    --previous-section-background-hash: 0;\n  }</style>\n<style>\n    #shopify-section-template--24595606045056__impact-text {\n      --impact-text-font-size: calc(min(20vw, 65px) * 1);\n      --impact-text-auto-columns: minmax(0, 1fr);\n    }\n\n    @media screen and (min-width: 700px) {\n      #shopify-section-template--24595606045056__impact-text {\n        --impact-text-font-size: calc(min(15vw, var(--container-max-width) * 0.15) / 1 * 1);\n        --impact-text-auto-columns: minmax(0, 1fr);\n      }\n    }\n  </style>\n<div class=\"section   section-blends section-full text-custom\" style=\"--text-color: 0 0 0;\">\n    <div>\n      <div class=\"impact-text impact-text--center \"><div class=\"snap-center\">\n<h2 class=\"impact-text__text heading break-all\">\n                  <impact-text reveal-js=\"\" style=\"opacity: 1; transform: translateY(0px);\"><span class=\"text-gradient \" style=\"--gradient: linear-gradient(180deg, rgba(0, 0, 0, 1), rgba(26, 26, 26, 0) 100%)\">100% Féminité </span></impact-text>\n                </h2>\n<div class=\"impact-text__content\">\n                  <div class=\"prose\"><p>Per la donna che risplende di bellezza con orgoglio, ogni giorno.</p></div>\n                </div>\n</div></div>\n    </div>\n  </div></section>",
+        "background": "#fff5f5",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media-grid": {
+      "type": "media-grid",
+      "blocks": {
+        "item-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/close-up-of-a-pine-tree-showing-texture-of-pine-needles.jpg",
+            "title": "Soldes d'hiver : Jusqu'à -70%",
+            "heading_tag": "h4",
+            "link_url": "shopify://collections/all",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/highway-tail-light-streaks.jpg",
+            "title": "A propos de nous",
+            "heading_tag": "h4",
+            "link_url": "shopify://collections",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/contact-customer-service.jpg",
+            "title": "Contactez-nous",
+            "heading_tag": "h4",
+            "link_url": "shopify://pages/contact",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "29246d34-c6e0-4373-84f6-b15e57736a00": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "title": "Travailler avec nous",
+            "heading_tag": "h4",
+            "link_url": "shopify://pages/travailler-avec-nous",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3",
+        "29246d34-c6e0-4373-84f6-b15e57736a00"
+      ],
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
+    "slideshow_a373fe": {
+      "type": "slideshow",
+      "blocks": {
+        "image_GBLwdn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/front-store-caye.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "Notre boutique: 102 rue de Provence , 75009 paris",
+            "heading_tag": "h6",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_GBLwdn"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
+    "featured_collection_byQV8W": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "manteux-vestes",
+        "products": [
+          "dupont™-pull-de-luxe",
+          "blazer-jupe-femme-printemps-elegant",
+          "polo-femme-ete-t-shirt-slim-fit-sexy",
+          "pull-brosse-chic-femme"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Nos meilleures ventes",
+        "content": "",
+        "link_url": "shopify://collections",
+        "link_text": "Voir tous",
+        "background": "#f5dfdb",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "manteux-vestes",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "pulls",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "pantalon",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection-2",
+        "collection-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "stack_collections": false,
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "Notre collections",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "#f5dfdb",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "Livraison",
+            "content": "<p>Nous expédions toutes nos commandes en France avec LaPoste. Des commandes avant 23h ? Votre colis sera expédié gratuitement le lendemain. Vous recevrez ainsi votre commande rapidement et sans frais supplémentaires !</p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "Retour",
+            "content": "<p>Vous n'êtes pas entièrement satisfait ? Ne pas paniquer! Vous pouvez retourner votre commande facilement et rapidement dans les 30 jours suivant sa réception. Nous veillons à ce que le processus se déroule sans problème afin que vous n'ayez à vous soucier de rien.</p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "Taille",
+            "content": "<p>Nos vêtements s'ajustent exactement comme indiqué dans le guide des tailles. Pour chaque produit vous trouverez le guide des tailles, afin que vous puissiez toujours choisir la bonne taille et être sûr qu'elle vous ira parfaitement.</p>"
+          }
+        },
+        "item_3EAGtY": {
+          "type": "item",
+          "settings": {
+            "title": "Autre Demande ?",
+            "content": "<p>Une question ou besoin de conseils ? N'hésitez pas à nous contacter. Nous sommes là pour vous aider et vous conseiller.<br/><br/>Email: <strong>bonjour@cayemilan.com</strong><br/><br/><strong>LUN / VEN 9:00 - 21:00<br/><br/>SAM / DIM 10:00 - 23:00</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "166442457738b23caf-0",
+        "166442457738b23caf-1",
+        "166442457738b23caf-2",
+        "item_3EAGtY"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p><strong>Des réponses à toutes vos questions !</strong></p>",
+        "team_avatar_width": 160,
+        "support_hours": "Notre boutique est ouverte du lundi au vendredi de 09h00 à 17h00 et le samedi et dimanche de 10h00 à 17h00.",
+        "answer_time": "Réponse sous 24 heures.",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "video_F7KCGa",
+    "custom_html_xiWfAy",
+    "media-grid",
+    "slideshow_a373fe",
+    "featured_collection_byQV8W",
+    "collection-list",
+    "faq"
+  ]
 }
