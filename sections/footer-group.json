@@ -16,6 +16,7 @@
       "blocks": {
         "product_rNT7tN": {
           "type": "product",
+          "disabled": true,
           "settings": {
             "product": "contrast-flared-sleeves-dress",
             "horizontal_position": 52,
