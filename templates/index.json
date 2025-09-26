@@ -20,7 +20,7 @@
         "subheading_9q7aDW": {
           "type": "subheading",
           "settings": {
-            "text": "Caye Milan"
+            "text": "Velmoro"
           }
         },
         "heading_jyn4Tr": {
@@ -73,7 +73,6 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/close-up-of-a-pine-tree-showing-texture-of-pine-needles.jpg",
             "title": "Soldes d'hiver : Jusqu'à -70%",
             "heading_tag": "h4",
             "link_url": "shopify://collections/all",
@@ -95,7 +94,6 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/highway-tail-light-streaks.jpg",
             "title": "A propos de nous",
             "heading_tag": "h4",
             "link_url": "shopify://collections",
@@ -117,7 +115,6 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/contact-customer-service.jpg",
             "title": "Contactez-nous",
             "heading_tag": "h4",
             "link_url": "shopify://pages/contact",
@@ -180,12 +177,12 @@
         "image_GBLwdn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/front-store-caye.png",
+            "image": "shopify://shop_images/ChatGPT_Image_21_sept._2025_02_49_25_fc038c6f-f3d3-453b-8acf-1ab6ab6faad6.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Notre boutique: 102 rue de Provence , 75009 paris",
+            "title": "Notre boutique: 102 rue de la paix, 75002 Paris",
             "heading_tag": "h6",
             "button_text": "",
             "button_link": "",
