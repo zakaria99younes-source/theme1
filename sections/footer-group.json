@@ -48,7 +48,7 @@
         "product_irAfhq"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "stack_mobile": true,
         "image": "shopify://shop_images/footer_women_with_logo.png",
         "title": "",
