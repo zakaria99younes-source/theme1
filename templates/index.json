@@ -19,22 +19,22 @@
         },
         "subheading_9q7aDW": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "Velmoro"
           }
         },
         "heading_jyn4Tr": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "text": "Où l'élégance française et le style intemporel se rencontrent.",
-            "heading_tag": "h4"
+            "text": "Velmoro",
+            "heading_tag": "h0"
           }
         },
         "richtext_KqWkWA": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Où l'élégance francaise rencontre le style intemporel.</strong></p>"
+            "content": "<p><strong>Où l'élégance française rencontre le style intemporel.</strong></p>"
           }
         }
       },
