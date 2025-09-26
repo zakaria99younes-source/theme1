@@ -16,9 +16,8 @@
       "blocks": {
         "product_rNT7tN": {
           "type": "product",
-          "disabled": true,
           "settings": {
-            "product": "",
+            "product": "contrast-flared-sleeves-dress",
             "horizontal_position": 52,
             "vertical_position": 25
           }
@@ -48,7 +47,7 @@
         "product_irAfhq"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "stack_mobile": true,
         "image": "shopify://shop_images/footer_women_with_logo.png",
         "title": "",
