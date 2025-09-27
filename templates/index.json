@@ -44,12 +44,14 @@
         "heading_jyn4Tr",
         "richtext_KqWkWA"
       ],
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
-        "external_video_url": "https://youtu.be/06wZsa-55UE",
+        "video": "shopify://files/videos/Header Video.mp4",
+        "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
