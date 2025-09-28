@@ -107,6 +107,7 @@
         "item-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/soldes_background.png",
             "title": "Soldes d'hiver : Jusqu'à -70%",
             "heading_tag": "h4",
             "link_url": "shopify://collections/all",
