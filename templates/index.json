@@ -219,12 +219,12 @@
       "type": "featured-collection",
       "disabled": true,
       "settings": {
-        "collection": "manteux-vestes",
+        "collection": "soldes-moins-100",
         "products": [
-          "dupont™-pull-de-luxe",
-          "blazer-jupe-femme-printemps-elegant",
-          "polo-femme-ete-t-shirt-slim-fit-sexy",
-          "pull-brosse-chic-femme"
+          "cardigan-velmoro",
+          "contrast-flared-sleeves-dress",
+          "leather-blazer",
+          "ribbed-knit-flared-long-dress"
         ],
         "full_width": true,
         "stack_products": true,
