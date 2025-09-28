@@ -71,6 +71,36 @@
         "text_color": ""
       }
     },
+    "featured_collection_byQV8W": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "soldes-moins-100",
+        "products": [
+          "cardigan-velmoro",
+          "contrast-flared-sleeves-dress",
+          "leather-blazer",
+          "ribbed-knit-flared-long-dress"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Nos meilleures ventes",
+        "content": "",
+        "link_url": "shopify://collections",
+        "link_text": "Voir tous",
+        "background": "#f5dfdb",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "media-grid": {
       "type": "media-grid",
       "blocks": {
@@ -166,6 +196,7 @@
         "item-3",
         "29246d34-c6e0-4373-84f6-b15e57736a00"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "reduce_width": false,
@@ -213,37 +244,6 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": ""
-      }
-    },
-    "featured_collection_byQV8W": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "collection": "soldes-moins-100",
-        "products": [
-          "cardigan-velmoro",
-          "contrast-flared-sleeves-dress",
-          "leather-blazer",
-          "ribbed-knit-flared-long-dress"
-        ],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Nos meilleures ventes",
-        "content": "",
-        "link_url": "shopify://collections",
-        "link_text": "Voir tous",
-        "background": "#f5dfdb",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
       }
     },
     "collection-list": {
@@ -379,9 +379,9 @@
   "order": [
     "video_F7KCGa",
     "custom_html_xiWfAy",
+    "featured_collection_byQV8W",
     "media-grid",
     "slideshow_a373fe",
-    "featured_collection_byQV8W",
     "collection-list",
     "faq"
   ]
