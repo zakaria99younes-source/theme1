@@ -72,9 +72,11 @@
             "size_chart_page": ""
           }
         },
-        "separator_heYEwa": {
-          "type": "separator",
-          "settings": {}
+        "liquid_98nbTn": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<br>"
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -176,7 +178,7 @@
         "liquid_8fDnrH",
         "liquid_CmRcXq",
         "variant_picker",
-        "separator_heYEwa",
+        "liquid_98nbTn",
         "buy_buttons",
         "liquid_fYbmhL",
         "liquid_K6hmp3",
