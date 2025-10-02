@@ -72,13 +72,17 @@
             "size_chart_page": ""
           }
         },
+        "separator_heYEwa": {
+          "type": "separator",
+          "settings": {}
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#fdf5e6",
-            "atc_button_text_color": "",
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#1a1a1a",
+            "atc_button_text_color": "#ffffff",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
@@ -172,6 +176,7 @@
         "liquid_8fDnrH",
         "liquid_CmRcXq",
         "variant_picker",
+        "separator_heYEwa",
         "buy_buttons",
         "liquid_fYbmhL",
         "liquid_K6hmp3",
