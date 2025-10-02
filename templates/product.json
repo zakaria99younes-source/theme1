@@ -300,7 +300,7 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "small",
-        "background": "#f7eaea",
+        "background": "#f8ecd7",
         "background_gradient": "",
         "text_color": ""
       }
@@ -367,7 +367,7 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "#fff5f5",
+        "background": "#f8ecd7",
         "background_gradient": "",
         "text_color": "#000000",
         "heading_color": "#000000",
@@ -490,16 +490,8 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "recommendations_count": 5,
-        "products": [
-          "blazer-jupe-femme-printemps-elegant",
-          "cardigan-boutonne-fleurs-femme",
-          "cardigan-tricote-vetements-femme",
-          "fleurelia™-cardigan-boheme-a-fleurs-elegance-1",
-          "pull-brode-col-rond-femme",
-          "pull-en-coton-cable-wimbledon-cricket",
-          "pull-femme-fleurs-brode"
-        ],
+        "recommendations_count": 4,
+        "products": [],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
@@ -508,7 +500,7 @@
         "subheading": "",
         "title": "Meilleurs ventes:",
         "content": "",
-        "background": "#d99898",
+        "background": "#f8ecd7",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "#101010",
