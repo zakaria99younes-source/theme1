@@ -491,7 +491,12 @@
       "type": "related-products",
       "settings": {
         "recommendations_count": 4,
-        "products": [],
+        "products": [
+          "cardigan-velmoro",
+          "contrast-flared-sleeves-dress",
+          "ribbed-knit-flared-long-dress",
+          "split-suede-leather-jacket-with-pocket"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
